@@ -1,0 +1,6 @@
+{
+  "name": "Eventora AI — Smart Event Planning Assistant",
+  "description": "Intelligent end-to-end event planning assistant with glassmorphic dashboards, budget allocations, vendor management, guest tracking, and Gemini AI copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
